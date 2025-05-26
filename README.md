@@ -1,7 +1,6 @@
-# Mantenimiento Softaware Gestión inteligente del tráfico y la movilidad"
+# Mantenimiento Softaware "Gestión inteligente del tráfico y la movilidad"
 Utilizando sistemas de control de versiones - Actividad 4 Mantenimiento en software
 
-# **Sistema de Gestión Inteligente del Tráfico y la Movilidad**  
 
 ## **📌 Descripción del Proyecto**  
 La necesidad de un sistema digital para la **gestión eficiente del tráfico y la movilidad urbana** se ha vuelto crítica debido al aumento de la congestión vehicular y la demanda de soluciones sostenibles. Este proyecto busca:  
