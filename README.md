@@ -14,6 +14,4 @@ La necesidad de un sistema digital para la **gestión eficiente del tráfico y l
 
 ## **📦 Instalación y Despliegue**  
 1. **Clonar repositorio**:  
-   ```bash
-   git clone https://github.com/tu-usuario/gestion-trafico-inteligente.git
-   cd gestion-trafico-inteligente
+   https://github.com/Danitech97/MantenimientoSoftawareUnidII.git
