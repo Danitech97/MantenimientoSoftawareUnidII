@@ -12,9 +12,6 @@ La necesidad de un sistema digital para la **gestión eficiente del tráfico y l
 
 ---
 
-## **🚀 Funcionalidades Clave**  
----
-
 ## **📦 Instalación y Despliegue**  
 1. **Clonar repositorio**:  
    ```bash
